@@ -1,0 +1,2 @@
+tiles.jpg: https://www.kenney.nl/assets/roguelike-characters
+character.png: https://merchant-shade.itch.io/16x16-mini-world-sprites
